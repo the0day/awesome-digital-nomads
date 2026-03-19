@@ -124,6 +124,7 @@
 - [Monzo](https://monzo.com) - A UK bank with a smartphone app offering zero fees on international transactions.
 - [Multi-currency budgeting with Google Sheets](https://medium.com/@richdecibels/multi-currency-budgeting-for-digital-nomads-68da7687e3d1) - Utilize Google Sheets formulas to manage and track income and expenses in multiple currencies.
 - [Local Bitcoins](https://localbitcoins.com/) - Buy and sell Bitcoins locally or remotely.
+- [VerdeDesk](https://verdedesk.vercel.app) - English-language tax compliance tool for freelancers in Portugal. Issue green receipts, track income, and stay compliant with Portuguese tax law.
 
 ## Security & Backup
 - [Avast Antivirus](https://avast.com) - The leading free antivirus software globally.
