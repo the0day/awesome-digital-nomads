@@ -196,3 +196,7 @@ Guidelines
 * Use the following format for links: [Resource](URL)
 * Want to suggest? Read the [Contribution Guide](https://github.com/the0day/awesome-digital-nomads/blob/master/CONTRIBUTING.md)
 * New categories or improvements to the existing categorization are welcome
+
+## Tools
+
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser-only freelance invoice, quote, timesheet, expense log, change order tools (no signup).
