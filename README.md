@@ -62,6 +62,7 @@
 - [Priority Pass](https://prioritypass.com) - Access over 1000 airport lounges worldwide with membership starting at US$99.
 - [LoungeBuddy](https://loungebuddy.com) - Book access to airport lounges from US$25 in over 200 locations globally.
 - [Hopper](https://www.hopper.com) - Predicts flight prices to help you book at the best time *- iOS and Android.*
+- [Mubboo Flights](https://mubboo.flights/) - Compare flights, hotels and car rentals, with destination guides, tours and attraction tickets to help plan a trip.
 
 ## Accommodation
 - [Airbnb](http://airbnb.com) - Affordable short-term rooms and private apartments.
