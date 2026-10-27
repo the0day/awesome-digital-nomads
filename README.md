@@ -24,6 +24,7 @@
 - [License](#license)
 
 ## Travel Planning
+- [China Travel Check](https://gochina.taoliapp.com/) - Verified English field manual for independent mainland China travel: payments, eSIM, visas, trains, and apps.
 - [Nomadee](https://nomadee.me) - Discover how your citizenship impacts entry requirements and access detailed city information.
 - [Hopper](https://www.hopper.com/) - An app for predicting flight prices.
 - [Rome2Rio](https://www.rome2rio.com/) - A service for finding routes and transportation options between cities.
